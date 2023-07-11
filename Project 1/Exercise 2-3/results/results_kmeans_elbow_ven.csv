@@ -1,0 +1,123 @@
+,Country,Abbrev,Label,Risk
+0,Albania,AL,0,Low
+1,Algeria,DZ,0,Low
+2,Argentina,AR,1,High
+3,Armenia,AM,0,Low
+4,Australia,AU,2,Moderate
+5,Austria,AT,2,Moderate
+6,Azerbaijan,AZ,0,Low
+7,Bahrain,BH,0,Low
+8,Bangladesh,BD,0,Low
+9,Belgium,BE,2,Moderate
+10,Benin,BJ,0,Low
+11,Bolivia,BO,0,Low
+12,Bosnia and Herzegovina,BA,0,Low
+13,Botswana,BW,2,Moderate
+14,Brazil,BR,1,High
+15,Bulgaria,BG,0,Low
+16,Burundi,BI,1,High
+17,Cameroon,CM,0,Low
+18,Canada,CA,2,Moderate
+19,Chad,TD,1,High
+20,Chile,CL,2,Moderate
+21,China,CN,0,Low
+22,Colombia,CO,0,Low
+23,Costa Rica,CR,2,Moderate
+24,Croatia,HR,0,Low
+25,Cyprus,CY,2,Moderate
+26,Czech Republic,CZ,2,Moderate
+27,Democratic Republic of Congo,CD,1,High
+28,Denmark,DK,2,Moderate
+29,Dominican Republic,DO,0,Low
+30,Ecuador,EC,1,High
+31,Egypt,EG,0,Low
+32,El Salvador,SV,0,Low
+33,Estonia,EE,2,Moderate
+34,Ethiopia,ET,0,Low
+35,Finland,FI,2,Moderate
+36,France,FR,2,Moderate
+37,Gabon,GA,0,Low
+38,Georgia,GE,0,Low
+39,Germany,DE,2,Moderate
+40,Ghana,GH,0,Low
+41,Greece,GR,0,Low
+42,Guatemala,GT,0,Low
+43,Honduras,HN,0,Low
+44,Hungary,HU,2,Moderate
+45,Iceland,IS,2,Moderate
+46,India,IN,0,Low
+47,Indonesia,ID,0,Low
+48,Iran,IR,1,High
+49,Ireland,IE,2,Moderate
+50,Israel,IL,0,Low
+51,Italy,IT,2,Moderate
+52,Jamaica,JM,2,Moderate
+53,Japan,JP,2,Moderate
+54,Jordan,JO,2,Moderate
+55,Kazakhstan,KZ,0,Low
+56,Kenya,KE,0,Low
+57,Korea (South),KI,2,Moderate
+58,Kuwait,KW,2,Moderate
+59,Latvia,LV,2,Moderate
+60,Lebanon,LB,1,High
+61,Liberia,LR,1,High
+62,Lithuania,LT,2,Moderate
+63,Madagascar,MG,0,Low
+64,Malawi,MW,0,Low
+65,Malaysia,MY,2,Moderate
+66,Mali,ML,0,Low
+67,Mauritania,MR,0,Low
+68,Mauritius,MU,2,Moderate
+69,Mexico,MX,1,High
+70,Moldova,FM,0,Low
+71,Montenegro,ME,0,Low
+72,Morocco,MA,0,Low
+73,Mozambique,MZ,0,Low
+74,Nepal,NP,0,Low
+75,Netherlands,NL,2,Moderate
+76,New Zealand,NZ,2,Moderate
+77,Nicaragua,NI,1,High
+78,Nigeria,NG,1,High
+79,Norway,NO,2,Moderate
+80,Oman,OM,2,Moderate
+81,Pakistan,PK,1,High
+82,Panama,PA,0,Low
+83,Paraguay,PY,1,High
+84,Peru,PE,0,Low
+85,Philippines,PH,0,Low
+86,Poland,PL,2,Moderate
+87,Portugal,PT,2,Moderate
+88,Qatar,QA,2,Moderate
+89,Romania,RO,2,Moderate
+90,Russia,RU,1,High
+91,Rwanda,RW,0,Low
+92,Saudi Arabia,SA,1,High
+93,Senegal,SN,0,Low
+94,Serbia,RS,0,Low
+95,Sierra Leone,SL,0,Low
+96,Singapore,SG,2,Moderate
+97,Slovakia,SK,2,Moderate
+98,Slovenia,SI,2,Moderate
+99,South Africa,ZA,1,High
+100,Spain,ES,2,Moderate
+101,Sri Lanka,LK,0,Low
+102,Sweden,SE,2,Moderate
+103,Switzerland,CH,2,Moderate
+104,Taiwan,SY,2,Moderate
+105,Tanzania,TZ,0,Low
+106,Thailand,TH,0,Low
+107,The FYR of Macedonia,MK,0,Low
+108,Trinidad and Tobago,TT,1,High
+109,Tunisia,TN,0,Low
+110,Turkey,TR,1,High
+111,Uganda,UG,0,Low
+112,Ukraine,UA,1,High
+113,United Arab Emirates,AE,2,Moderate
+114,United Kingdom,GB,2,Moderate
+115,United States,US,2,Moderate
+116,Uruguay,UY,2,Moderate
+117,Venezuela,VE,1,High
+118,Vietnam,VI,0,Low
+119,Yemen,YE,1,High
+120,Zambia,ZM,0,Low
+121,Zimbabwe,ZW,1,High
